@@ -32,13 +32,7 @@ h1{
     background-image:url('../images/cheems.png');
     
 }
-.navbar {
-    display:flex;
-    justify-content: space-between;
-    background-color:var(--secundary-color);
-    padding: 1rem;
-    font-weight: 800;
-    text-transform: uppercase; }
+
 a{
     text-decoration: none;
     color: beige;
