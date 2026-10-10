@@ -1,0 +1,17 @@
+.footer-container {
+    background-color: var(--tertiary-color);
+    padding: 10px;
+    color: var(--tertiary-color);
+}
+
+.footer-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    margin: 0;
+}
+
+.logo-footer {
+    max-width: 120px;
+    width: 100px;
+}
